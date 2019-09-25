@@ -22,6 +22,7 @@ body {
     	 height: 100%;
    	 margin: 0px;
     	 padding: 0px;
+	 overflow-x: hidden; 
 	 font-family: "Lato", sans-serif;
 	 -webkit-font-smoothing: antialiased;
 	 font-smoothing: antialiased;
