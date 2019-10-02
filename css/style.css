@@ -538,7 +538,7 @@ font-size:15px;
 }
 
 .about-img {
-	position: relative;
+	position: absolute;
 	top: 0;
 	right: -120px;
 	width: 662px;
